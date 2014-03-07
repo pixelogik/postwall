@@ -1,0 +1,4 @@
+web: api/target/start $JAVA_OPTS
+
+#processor: processing/target/start
+
