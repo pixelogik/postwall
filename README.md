@@ -20,7 +20,7 @@ When the API is running you can post message onto the wall by doing a POST reque
   "author": "Mister Sunshine"
 }
 
-To get all the posted messages to a GET on http://localhost:8080/posts and it will return JSON with all the posts, something like:
+To get all the posted messages do a GET on http://localhost:8080/posts and it will return JSON with all the posts, something like:
 
 [
     {
